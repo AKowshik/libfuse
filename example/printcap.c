@@ -13,7 +13,7 @@
  *
  * Compile with:
  *
- *     gcc -Wall printcap.c `pkg-config fuse3 --cflags --libs` -o printcap
+ *     gcc -Wall protocol_info.c `pkg-config fuse3 --cflags --libs` -o protocol_info
  *
  * ## Source code ##
  * \include @file
